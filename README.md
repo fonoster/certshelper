@@ -32,7 +32,7 @@ The following is a minimal example of using this image.
 ```bash
 docker run -it \
   -v $(pwd)/certs:/certs \
-	-e SUBJECT=localhost \
+  -e SUBJECT=localhost \
   -e CERT_NAME=client \
   fonoster/certshelper
 ```
