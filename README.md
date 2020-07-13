@@ -46,7 +46,7 @@ Run environment variables are used in the entry point script to render configura
 - `CERT_NAME` - Name of the certificate. Default is `cert`
 - `SUBJECT` - Subject for the certificate. Default is `localhost`
 
-Please check the [gen-cert](https://github.com/fonoster/certhelper/blob/master/gen-certs) script for more environment variables.
+Please check the [gen-cert](https://github.com/fonoster/certshelper/blob/master/gen-certs) script for more environment variables.
 
 ## Volumes
 
